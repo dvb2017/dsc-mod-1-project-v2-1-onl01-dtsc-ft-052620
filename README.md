@@ -20,7 +20,7 @@ These are the intial questions that I set out to answer.
 
 ### Visualizations
 
-I am including a few example visualizations below.  The two scatter plots below are plotting review scores against some metric of box office success.  The first uses audience scores and gross revenue, and the second uses critic scores.  Below that is a simple bar chart comparing the correlation values between the previous metrics.  Audience score is represented by the middle and right bars, broken down between all movies and the top ten percent of highest grossing movies, respectively.
+I am including a few example visualizations below.  The two scatter plots below are plotting review scores against one metric of box office success.  The first uses audience scores and gross revenue, and the second uses critic scores.  Below that is a simple bar chart comparing the correlation values between the previous metrics.  Audience score is represented by the middle and right bars, broken down between all movies and the top ten percent of highest grossing movies, respectively.
 
 ![audience-scores](https://github.com/dvb2017/box-office-reviews/blob/master/module1_graphs/gross_audience_10.png)
 
